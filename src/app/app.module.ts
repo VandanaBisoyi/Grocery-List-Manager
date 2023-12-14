@@ -13,7 +13,7 @@ import { AppGroceryComponent } from './app-grocery/app-grocery.component';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppGroceryComponent]
