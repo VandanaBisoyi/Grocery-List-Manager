@@ -1,0 +1,10 @@
+
+.delete-button {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  width: 100px; 
+  position: absolute; 
+  right: 800px;
+
+}
